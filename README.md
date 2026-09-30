@@ -2,8 +2,6 @@
 
 [Pustota](https://github.com/pustota-theme/pustota) adaptation for Codex.
 
-## Preview
-
 <p align="center">
   <a href="./assets/dark.png"><img src="./assets/dark.png" alt="Pustota for Codex — dark theme" width="49%"></a>
   <a href="./assets/light.png"><img src="./assets/light.png" alt="Pustota for Codex — light theme" width="49%"></a>
