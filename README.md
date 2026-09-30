@@ -15,8 +15,8 @@
 
 | Theme | Import payload |
 | --- | --- |
-| Dark | [`app/dark`](./app/dark) |
-| Light | [`app/light`](./app/light) |
+| Dark | [`themes/dark`](./themes/dark) |
+| Light | [`themes/light`](./themes/light) |
 
 Each file is a ready-to-paste import payload.
 
